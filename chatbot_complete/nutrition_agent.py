@@ -8,11 +8,10 @@ from agents import (
 )
 
 base_dir = Path(__file__).parent
+project_root = base_dir.parent
 
-if os.getenv("RENDER") == "true":
-    chroma_path = Path("/tmp/chroma")
-else:
-    chroma_path = base_dir / "chroma"
+# Optional override via env var, otherwise project_root/chroma
+chroma_path = Path(os.getenv("CHROMA_PATH", str(project_root / "chroma")))
 
 chroma_path.mkdir(parents=True, exist_ok=True)
 chroma_client = chromadb.PersistentClient(path=str(chroma_path))
