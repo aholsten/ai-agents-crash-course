@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93070a37-3ba8-48c2-a4e5-c2aec93c27aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.chainlit/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/ar-SA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/bn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/da-DK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/de-DE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/el-GR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/en-US.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/fr-FR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/gu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/he-IL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/hi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/kn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/ml.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/mr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/ta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/te.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/zh-CN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.chainlit/translations/zh-TW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_ul" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/ar-SA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/bn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/da-DK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/de-DE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/el-GR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/en-US.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/fr-FR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/gu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/he-IL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/hi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/kn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/ml.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/mr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/ta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/te.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/zh-CN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/.chainlit/translations/zh-TW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/1_simple_chatbot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/2_simple_chatbot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/chainlit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/ar-SA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/bn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/da-DK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/de-DE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/el-GR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/en-US.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/fr-FR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/gu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/he-IL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/hi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/kn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/ml.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/mr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/ta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/te.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/zh-CN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/.chainlit/translations/zh-TW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/2_agentic_chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot_complete/2_agentic_chatbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_complete/chainlit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chroma/chroma.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/chroma/chroma.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/simplest_agent-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/guardrails.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/guardrails.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/mcp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/mcp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/multi_agent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/multi_agent.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/rag.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/rag.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/short_term_memory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/short_term_memory.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/simplest_agent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/simplest_agent.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/tool_calling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/tool_calling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/rag_text.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rag_text.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/anja.holsten/OneDrive - hmmh/Dokumente/Projekte/python-kurs/ai-agents-crash-course" value="3BkKSGaBA7oUXlcb2JDo28sJM2O" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3BkKSGaBA7oUXlcb2JDo28sJM2O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/anja.holsten/OneDrive - hmmh/Dokumente/Projekte/python-kurs/ai-agents-crash-course",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93070a37-3ba8-48c2-a4e5-c2aec93c27aa" name="Changes" comment="" />
+      <created>1775027626103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775027626103</updated>
+      <workItem from="1775027627144" duration="4740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="b7559fc5-ce3f-4ab7-bf29-6379c8f4c876" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="b7559fc5-ce3f-4ab7-bf29-6379c8f4c876">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
