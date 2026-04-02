@@ -1,3 +1,4 @@
+import os 
 from pathlib import Path
 
 import chromadb
@@ -6,7 +7,14 @@ from agents import (
     function_tool,
 )
 
-chroma_path = Path(__file__).parent.parent / "chroma"
+base_dir = Path(__file__).parent
+
+if os.getenv("RENDER") == "true":
+    chroma_path = Path("/tmp/chroma")
+else:
+    chroma_path = base_dir / "chroma"
+
+chroma_path.mkdir(parents=True, exist_ok=True)
 chroma_client = chromadb.PersistentClient(path=str(chroma_path))
 nutrition_db = chroma_client.get_collection(name="nutrition_db")
 
