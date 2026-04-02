@@ -16,8 +16,12 @@ else:
 
 chroma_path.mkdir(parents=True, exist_ok=True)
 chroma_client = chromadb.PersistentClient(path=str(chroma_path))
-nutrition_db = chroma_client.get_collection(name="nutrition_db")
+nutrition_db = chroma_client.get_or_create_collection(name="nutrition_db")
 
+if nutrition_db.count() == 0:
+    # optional: initial data ingest here
+    print("nutrition_db is empty. Please ingest seed data.")
+# ...existing code...
 
 @function_tool
 def calorie_lookup_tool(query: str, max_results: int = 3) -> str:
