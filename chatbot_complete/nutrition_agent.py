@@ -14,7 +14,7 @@ project_root = base_dir.parent
 chroma_path = Path(os.getenv("CHROMA_PATH", str(project_root / "chroma")))
 
 chroma_path.mkdir(parents=True, exist_ok=True)
-chroma_client = chromadb.PersistentClient(path=str(chroma_path))
+chroma_client = chromadb.Client()
 nutrition_db = chroma_client.get_or_create_collection(name="nutrition_db")
 
 if nutrition_db.count() == 0:
